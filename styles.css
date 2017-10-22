@@ -1,0 +1,103 @@
+body{
+    font-family: "Open Sans";
+    background-color: #cccccc;
+}
+
+
+*{
+margin: 0;
+padding: 0;
+}
+
+#header{
+    width:100%;
+    height:18%;
+    background-color: #E6E6E6;
+    position: fixed;
+}
+#title{
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:20%;  
+
+}
+
+
+.menu{
+    display:table;
+    margin: 0 auto;
+}
+
+ul {
+    display: inline;
+    font-family: "Open Sans";
+    list-style: none;
+    width: 70%;
+    margin: auto;
+    
+    
+}
+
+ul li{
+    color:#333333;
+    display: inline;
+    text-align: center;
+    width:50%
+    
+}
+
+ul li a{
+    text-decoration: none;
+    color:inherit;
+    text-align: center;
+    width:10em;
+    margin: 5em;
+    font-style:light;
+}
+
+#main{
+    display: inline-block;
+    box-shadow: 0px 30px 50px #888888;
+    width: 75%;
+    height: 100%;
+    left: 50%;
+    margin-left: 12.5%;
+    background-color: C6B3BB;
+}
+
+
+#container1{
+    padding: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+    width:40%;   
+}
+
+.headings{
+    margin-top: 75px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lines{
+    margin: 13px;
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.des{
+    color:333333;
+    text-align: center;
+    font-size: 14px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
