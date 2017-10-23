@@ -71,7 +71,8 @@ ul li a{
     display: inline-block;
     box-shadow: 0px 30px 50px #888888;
     width: 75%;
-    height: 150vh;
+    height: auto;
+    padding-bottom: 10%;
     left: 50%;
     margin-left: 12.5%;
     background-color: #D375AD;
