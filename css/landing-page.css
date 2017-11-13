@@ -9,9 +9,13 @@ body, html {
   height: 100%;
 }
 
+#title{
+    width:50%;
+    padding-bottom: 50px;
+}
 body, h1, h2, h3, h4, h5, h6 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 100;
 }
 
 .intro-header {
@@ -19,7 +23,7 @@ body, h1, h2, h3, h4, h5, h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #F8F8F8;
-  background: url(../elements/backgroundfaded.jpg) no-repeat center center;
+  background: url(../Images/backgroundfaded1.jpg) no-repeat center center;
   background-size: cover;
 }
 
