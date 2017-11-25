@@ -205,7 +205,15 @@ input[type="email"]{
 
 #formm{
     padding: 20px;
-    display: block;
+
     margin-left: auto;
     margin-right: auto;
+}
+
+.sidebyside{
+    display: inline-block;
+}
+
+#button{
+
 }
